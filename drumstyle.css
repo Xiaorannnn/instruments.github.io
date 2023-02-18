@@ -32,7 +32,7 @@ body {
   }
   
   .d {
-    background-image: https://github.com/Xiaorannnn/instruments.github.io/blob/main/ca.jpg;
+    background-image: url("https://github.com/Xiaorannnn/instruments.github.io/blob/main/ca.jpg");
   }
   
   .j {

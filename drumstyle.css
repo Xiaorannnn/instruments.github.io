@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: #e1e4ec;
-    background-image: url('img/transtion.png');
+    background-image: ('transtion.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -20,31 +20,31 @@ body {
   }
   
   .w {
-    background-image: url("images/tom1.jpg");
+    background-image: ("tom1.jpg");
   }
   
   .a {
-    background-image: url("images/tom2.jpg");
+    background-image: ("tom2.jpg");
   }
   
   .s {
-    background-image: url("images/tom3.jpg");
+    background-image: ("tom3.jpg");
   }
   
   .d {
-    background-image: url("images/ca.jpg");
+    background-image: ("ca.jpg");
   }
   
   .j {
-    background-image: url("images/snare.jpg");
+    background-image: ("snare.jpg");
   }
   
   .k {
-    background-image: url("images/crash.jpg");
+    background-image: ("crash.jpg");
   }
   
   .l {
-    background-image: url("images/kick.jpg");
+    background-image: ("kick.jpg");
   }
   
   .set {

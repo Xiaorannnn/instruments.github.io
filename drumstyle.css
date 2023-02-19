@@ -20,19 +20,19 @@ body {
   }
   
   .w {
-    background-image: tom1.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/tom1.jpg");
   }
   
   .a {
-    background-image: tom2.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/tom2.jpg");
   }
   
   .s {
-    background-image: tom3.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/snare.jpg");
   }
   
   .d {
-    background-image: instruments.github.io/ca.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/ca.jpg");
   }
   
   .j {
@@ -40,11 +40,11 @@ body {
   }
   
   .k {
-    background-image: crash.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/crash.jpg");
   }
   
   .l {
-    background-image: kick.jpg;
+    background-image: url("https://raw.githubusercontent.com/Xiaorannnn/instruments.github.io/main/kick.jpg");
   }
   
   .set {
